@@ -1,0 +1,6 @@
+## Interface: 11303
+## Title: Minimap Coordinates
+## Author: Rohan Verghese
+## Version: 1.13.3.1
+
+core.lua
