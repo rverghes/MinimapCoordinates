@@ -1,6 +1,6 @@
-## Interface: 11304
+## Interface: 11305
 ## Title: Minimap Coordinates
 ## Author: Rohan Verghese
-## Version: 1.13.4.1
+## Version: 1.13.5.1
 
 core.lua
