@@ -1,6 +1,6 @@
-## Interface: 80300
+## Interface: 90001
 ## Title: Minimap Coordinates
 ## Author: Rohan Verghese
-## Version: 8.3.0.1
+## Version: 9.0.1.1
 
 core.lua
